@@ -1,0 +1,1749 @@
+.header1 {
+position: absolute;
+width: 1920px;
+height: 46px;
+left: 0px;
+top: 0px;
+background: #18154B;
+}
+
+.mailvector {
+    /* email */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 370px;
+top: 15px;
+
+
+}
+.mail {
+position: absolute;
+width: 109px;
+height: 19px;
+left: 396px;
+top: 14px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: #F0F5FB;
+}
+.telvector {
+    /* phone */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 549px;
+top: 15px;
+
+
+}
+.phone {
+    /* +7 (999) 999-99-99 */
+
+position: absolute;
+width: 136px;
+height: 18px;
+left: 574px;
+top: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+/* фон */
+color: #F0F5FB;
+
+
+}
+.tg {
+    /* telegram */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 1480px;
+top: 10px;
+
+
+}
+.wsp {
+    /* whatsapp */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 1524px;
+top: 10px;
+
+
+}
+.header2 {
+position: absolute;
+width: 1920px;
+height: 70px;
+left: 0px;
+top: 46px;
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+}
+
+.title {
+position: absolute;
+width: 121px;
+height: 27px;
+left: 370px;
+top: 0px;
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.table {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+position: absolute;
+width: 574px;
+height: 22px;
+left: 549px;
+top: 55px;
+}
+.header2textdiv {
+    /* Group */
+
+width: 143px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+} 
+.header2text {
+/* Каталог товаров */
+
+position: absolute;
+width: 125px;
+height: 22px;
+left: 0px;
+top: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+}
+.header2text2 {
+width: 43px;
+height: 22px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: rgba(48, 50, 57, 0.7);
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.header2text3 {
+width: 97px;
+height: 22px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+.header2text4 {
+/* Доставка */
+
+width: 71px;
+height: 22px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.header2text5 {
+  /* Отзывы */
+
+width: 60px;
+height: 22px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+  
+}
+.headerbutton {
+    /* button */
+
+position: absolute;
+width: 160px;
+height: 40px;
+left: 1170px;
+top: 60px;
+
+/* градиент */
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+border-radius: 50px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.headersearch {
+    /* поиск */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1410px;
+top: 60px;
+
+/* фон */
+background: #F0F5FB;
+border-radius: 30px;
+
+}
+.headerheart {
+position: absolute;
+left: 4.51%;
+right: 4.51%;
+top: 9.05%;
+bottom: 9.09%;
+}
+.headerheartdiv {
+    /* избранное */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1460px;
+top: 60px;
+
+/* фон */
+background: #F0F5FB;
+border-radius: 30px;
+
+}
+.headerheartdiv2 {
+    /* heart */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 10px;
+top: 10px;
+
+
+}
+.headercart {
+/* корзина */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1510px;
+top: 60px;
+
+/* фон */
+background: #F0F5FB;
+border-radius: 30px;
+
+}
+.headercart2 {
+/* Cart2 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 9px;
+top: 9px;
+
+
+}
+.headercarticon {
+position: absolute;
+left: 4.51%;
+right: 4.51%;
+top: 9.05%;
+bottom: 9.09%;
+}
+.h1main {
+position: absolute;
+width: 261px;
+height: 49px;
+left: 0px;
+top: 0px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+text-transform: uppercase;
+color: #18154B;
+}
+.okomp {
+position: absolute;
+width: 1180px;
+height: 494px;
+left: 376px;
+top: 156px;
+}
+.pokomp {
+position: absolute;
+width: 645px;
+height: 161px;
+left: 0px;
+top: 89px;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+color: #303239;
+}
+.imagediv {
+    /* image */
+
+position: absolute;
+width: 460px;
+height: 250px;
+left: 720px;
+top: 0px;
+
+background: radial-gradient(52.98% 79.47% at 60.22% 53.83%, #42E8E0 0%, #42E8E0 3.11%, #308BA7 17.63%, #265587 32.63%, #201A6C 48.03%, #160E5A 63.97%, #11074F 80.79%, #0F054C 100%);
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+overflow: hidden;
+}
+.image {
+position: absolute;
+width: 490px;
+height: 317px;
+left: -30px;
+top: -56px;
+
+}
+.icon {
+position: absolute;
+width: 80px;
+height: 80px;
+left: 0px;
+top: 330px;
+}
+.icon2 {
+    /* svg */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 200px;
+top: 330px;
+
+
+}
+.icon3 {
+    /* svg */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 399px;
+top: 330px;
+
+
+}
+
+.icon4 {
+/* svg */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 601px;
+top: 330px;
+
+
+}
+
+.icon5 {
+/* svg */
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 800px;
+top: 330px;
+
+
+}
+
+.icon6 {
+
+position: absolute;
+width: 80px;
+height: 80px;
+left: 1000px;
+top: 330px;
+}
+.iconp {
+position: absolute;
+width: 139px;
+height: 69px;
+left: 1000px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+
+color: #303239;
+}
+.iconp2 {
+/* Официальный договор, полная защита средств */
+
+position: absolute;
+width: 134px;
+height: 69px;
+left: 800px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+/* or 23px */
+
+/* текст */
+color: #303239;
+
+
+}
+.iconp3 {
+   /* Предоплата за предзаказ от 30% */
+
+position: absolute;
+width: 110px;
+height: 69px;
+left: 601px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+/* or 23px */
+
+/* текст */
+color: #303239;
+
+ 
+}
+.iconp4 {
+   /* Быстрая авиадоставка от 14 дней */
+
+position: absolute;
+width: 107px;
+height: 69px;
+left: 399px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+/* or 23px */
+
+/* текст */
+color: #303239;
+
+ 
+}
+.iconp5 {
+    /* Прямое сотрудничество с поставщиками */
+
+position: absolute;
+width: 128px;
+height: 69px;
+left: 200px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+/* or 23px */
+
+/* текст */
+color: #303239;
+}
+.iconp6 {
+    /* Работаем без выходных – 7 дней в неделю */
+
+position: absolute;
+width: 123px;
+height: 69px;
+left: 0px;
+top: 425px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 145%;
+/* or 23px */
+
+/* текст */
+color: #303239;
+}
+.banner {
+/* Баннер */
+
+position: absolute;
+width: 780px;
+height: 440px;
+left: 376px;
+top: 730px;
+
+/* градиент */
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+overflow: hidden;
+}
+.bannertext {
+    /* оборудование для майнинга оптом */
+
+position: absolute;
+width: 341px;
+height: 156px;
+left: 60px;
+top: 80px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 38px;
+line-height: 52px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+z-index: 2;
+
+}
+.bannertext2 {
+    /* с гарантией 12 месяцев */
+
+position: absolute;
+width: 205px;
+height: 25px;
+left: 60px;
+top: 256px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+z-index: 2;
+
+}
+.bannerbutton {
+    /* button */
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 60px;
+top: 311px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+
+/* заголовки */
+color: #18154B;
+z-index: 2;
+
+}
+.bannerimage {
+/* image */
+
+position: absolute;
+width: 263px;
+height: 250px;
+left: 472px;
+top: 95px;
+
+background: url(image.png);
+z-index: 2;
+}
+.bannerimage2 {
+/* image */
+
+position: absolute;
+width: 592px;
+height: 440px;
+left: 3px;
+top: 0px;
+
+background: url(image.png);
+background-blend-mode: hard-light;
+
+}
+.bannersmth {
+    /* Ellipse */
+
+position: absolute;
+width: 596px;
+height: 440px;
+left: 400px;
+top: 0px;
+
+background: rgba(52, 110, 164, 0.2);
+
+
+}
+.banner2 {
+    /* Баннер */
+
+position: absolute;
+width: 380px;
+height: 440px;
+left: 1176px;
+top: 730px;
+
+background: linear-gradient(0deg, #1A0B73, #1A0B73), radial-gradient(106.32% 141.75% at -6.32% -2.5%, #42E8E0 0%, #40DDDA 0%, #3AAEC0 9.21%, #3484A9 17.3%, #2F6195 25.73%, #2B4486 34.58%, #282E79 44%, #261E71 54.25%, #24156C 65.94%, #24126A 82.26%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.banner2text {
+/* выгодное предложение */
+
+position: absolute;
+width: 231px;
+height: 76px;
+left: 40px;
+top: 40px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+.banner2text2 {
+   /* -20% */
+
+position: absolute;
+width: 145px;
+height: 76px;
+left: 40px;
+top: 90px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 76px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+ 
+}
+.banner2text3 {
+    /* на все товары Antminer */
+
+position: absolute;
+width: 138px;
+height: 46px;
+left: 205px;
+top: 142px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 125%;
+/* or 22px */
+
+color: #FFFFFF;
+
+
+}
+.banner2svg {
+    /* svg */
+
+position: absolute;
+width: 216px;
+height: 200px;
+left: 8px;
+top: 217px;
+
+
+}
+.banner2button {
+    /* button */
+
+position: absolute;
+width: 117px;
+height: 22px;
+left: 233px;
+top: 388px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+background: none;
+border: none;
+display: inline;
+}
+.form {
+    /* Форма заявки */
+
+position: absolute;
+width: 1180px;
+height: 330px;
+left: 376px;
+top: 1250px;
+
+filter: drop-shadow(0px 4px 20px rgba(0, 7, 94, 0.1));
+border-radius: 10px;
+
+}
+.formimage {
+    border-radius: 10px;
+}
+.pform {
+    /* не нашли то, что искали? */
+
+position: absolute;
+width: 549px;
+height: 38px;
+left: 60px;
+top: 50px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+.pform2{
+/* свяжитесь с нами, мы вам поможем! */
+
+position: absolute;
+width: 620px;
+height: 38px;
+left: 60px;
+top: 93px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+.pform3{
+/* Заполните форму и мы свяжемся с Вами в ближайшее время */
+
+position: absolute;
+width: 529px;
+height: 25px;
+left: 60px;
+top: 141px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.textinput {
+    /* input */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 60px;
+top: 191px;
+
+background: rgba(255, 255, 255, 0.3);
+border: 1px solid rgba(243, 243, 243, 0.7);
+border-radius: 50px;
+
+}
+.telinput {
+/* input */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 320px;
+top: 191px;
+
+background: rgba(255, 255, 255, 0.3);
+border: 1px solid rgba(243, 243, 243, 0.7);
+border-radius: 50px;
+
+}
+.checkinput {
+/* Checkbox */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 60px;
+top: 262px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 2px;
+
+}
+.checktextinput {
+/* Согласен на обработку персональных данных */
+
+position: absolute;
+width: 306px;
+height: 19px;
+left: 84px;
+top: 261px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: #F3F3F3;
+
+
+}
+.suminput {
+/* button */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 580px;
+top: 191px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+}
+.hitsale {
+
+position: absolute;
+width: 1352px;
+height: 491px;
+left: 284px;
+top: 2516px;
+
+}
+.hitsalemain {
+    /* Хиты продаж(slider) */
+
+position: absolute;
+width: 1180px;
+height: 491px;
+left: 100px;
+
+
+
+} 
+.hit2 {
+/* карточка товара */
+
+position: absolute;
+width: 220px;
+height: 360px;
+left: 240px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.hit2textdiv {
+    /* акция */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 3px 10px;
+gap: 10px;
+
+position: absolute;
+width: 52px;
+height: 22px;
+left: 15px;
+top: 15px;
+
+/* фон */
+background: #F0F5FB;
+border-radius: 4px;
+
+}
+.hit2text {
+    /* ХИТ */
+
+width: 32px;
+height: 16px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+/* градиент */
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.hit2favdivmain {
+    /* избранное */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 183px;
+top: 15px;
+
+border-radius: 30px;
+
+}
+.hit2favdiv {
+    /* heart */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: calc(50% - 20px/2);
+top: calc(50% - 20px/2);
+
+
+}
+.hit2image {
+    /* image */
+
+position: absolute;
+width: 160px;
+height: 160px;
+left: 30px;
+top: 30px;
+
+background: url(image.png);
+overflow: hidden;
+
+}
+.hit2text2 {
+    /* Antminer L7 8800 Mh/s */
+
+position: absolute;
+width: 177px;
+height: 19px;
+left: 20px;
+top: 200px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+}
+.hit2text3{
+    /* 615 000 ₽ */
+
+position: absolute;
+width: 67px;
+height: 19px;
+left: 20px;
+top: 249px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+/* текст */
+color: #303239;
+
+
+}
+.hit2cartdivmain {
+    /* корзина */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 164px;
+top: 240px;
+
+/* фон */
+background: #F0F5FB;
+border-radius: 30px;
+
+}
+.hit2cartdiv {
+/* Cart2 */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: calc(50% - 18px/2);
+top: calc(50% - 18px/2);
+
+
+}
+.hit2button {
+    /* button */
+
+position: absolute;
+width: 180px;
+height: 44px;
+left: 20px;
+top: 286px;
+
+/* градиент */
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+border-radius: 50px;
+
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.hitfav {
+    /* Vector */
+
+position: absolute;
+left: 4.51%;
+right: 4.51%;
+top: 9.05%;
+bottom: 9.09%;
+
+/* градиент */
+background: linear-gradient(73.56deg, #0D748B -10.13%, #1A0B73 75.49%), #FFFFFF;
+
+}
+.hit3 {
+    /* карточка товара */
+
+position: absolute;
+width: 220px;
+height: 360px;
+left: 480px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.hit {
+/* карточка товара */
+
+position: absolute;
+width: 220px;
+height: 360px;
+left: 0px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.hit4 {
+    /* карточка товара */
+
+position: absolute;
+width: 220px;
+height: 360px;
+left: 720px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.hit5 {
+    /* карточка товара */
+
+position: absolute;
+width: 220px;
+height: 360px;
+left: 960px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 20px rgba(0, 7, 94, 0.1);
+border-radius: 10px;
+
+}
+.hitsaletext {
+/* хиты продаж */
+
+position: absolute;
+width: 292px;
+height: 49px;
+left: 0px;
+top: -20px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+text-transform: uppercase;
+
+/* заголовки */
+color: #18154B;
+
+
+}
+.footer {
+position: absolute;
+width: 1920px;
+height: 336px;
+left: 0px;
+top: 3087px;
+background: #18154B;
+}
+main {
+position: relative;
+width: 1920px;
+height: 3423px;
+
+z-index: -1;
+background: #F0F5FB;
+}
+.footertext1 {
+/* MEIN MINER */
+
+position: absolute;
+width: 133px;
+height: 30px;
+left: 370px;
+top: 70px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 30px;
+/* identical to box height */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+}
+.footertext2 {
+/* © Mein Miner, 2025 */
+
+position: absolute;
+width: 134px;
+height: 20px;
+left: 370px;
+top: 116px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #B8B8B8;
+
+
+}
+.footertext3 {
+/* Покупателям */
+
+position: absolute;
+width: 129px;
+height: 22px;
+left: 670px;
+top: 60px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #B8B8B8;
+
+
+}
+.footertext4 {
+/* каталог товаров */
+
+position: absolute;
+width: 163px;
+height: 22px;
+left: 970px;
+top: 60px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+text-transform: uppercase;
+
+color: #B8B8B8;
+
+
+}
+.footertext5 {
+/* Публичная оферта */
+
+position: absolute;
+width: 135px;
+height: 20px;
+left: 1415px;
+top: 228px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+text-align: right;
+
+color: #B8B8B8;
+
+
+}
+.footertext6 {
+/* Политика конфиденциальности */
+
+position: absolute;
+width: 227px;
+height: 20px;
+left: 1323px;
+top: 256px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+text-align: right;
+
+color: #B8B8B8;
+
+
+}
+.footerdiv {
+/* menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 91px;
+height: 160px;
+left: 670px;
+top: 90px;
+
+
+}
+.footerdivtext{
+/* О компании */
+
+width: 85px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.footerdivtext2 {
+/* Цены */
+
+width: 40px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+}
+.footerdivtext3 {
+/* Калькулятор */
+
+width: 91px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+.footerdivtext4 {
+/* Доставка */
+
+width: 67px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.footerdivtext5 {
+/* Отзывы */
+
+width: 56px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+.footerdivtext6 {
+/* Контакты */
+
+width: 68px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+}
+.footerdiv2 {
+/* menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 227px;
+height: 160px;
+left: 970px;
+top: 90px;
+
+
+}
+.footerdiv2text{
+/* Asic miners */
+
+width: 78px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.footerdiv2text2 {
+/* GPU фермы */
+
+width: 85px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+}
+.footerdiv2text3 {
+/* Видеокарты */
+
+width: 87px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+.footerdiv2text4 {
+/* Аксессуары */
+
+width: 84px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.footerdiv2text5 {
+/* Компьютерные комплектующие */
+
+width: 227px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+.footerdiv2text6 {
+/* Комплектующие для майнинга */
+
+width: 218px;
+height: 0px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+}
+.footerbutton {
+    /* button */
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 1350px;
+top: 60px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+
+color: #18154B;
+
+
+}
+.quest {
+/* вопросы */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+position: absolute;
+width: 1180px;
+height: 776px;
+left: 370px;
+top: 1660px;
+
+border-radius: 48px;
+
+}
+.questtext {
+    /* Часто задаваемые Вопросы */
+
+width: 604px;
+height: 49px;
+
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+text-transform: uppercase;
+
+/* заголовки */
+color: #18154B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
